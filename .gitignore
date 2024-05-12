@@ -1,0 +1,3 @@
+#Ignode node_module directory
+node_modules/
+.env
